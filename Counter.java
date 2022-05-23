@@ -9,7 +9,13 @@ public class Counter {
             }
         }
 
-
+    public static void imprimenum(){
+        int num=1;
+        while (num<=1000){
+            System.out.println(num);
+            num ++;
+        }
+    }
 
 
     }
